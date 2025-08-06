@@ -11,7 +11,7 @@ I am a graduate of Computer Science with a B.E. Degree. I bring over four years 
 - JavaScript/TypeScript - [Node.js](https://nodejs.org/), Angular
 - Python
 - Java
-- HTML/CSS - [Bulma](https://bulma.io/), [Bootstap](http://getbootstrap.com/)
+- HTML/CSS - [Bulma](https://bulma.io/), [Bootsrtap](http://getbootstrap.com/)
 
 ## 🤝 Notable Work
 
